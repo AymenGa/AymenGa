@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Aymen Gasri  
 
-<!--
-**AymenGa/AymenGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Graduate** from ISIMA Mahdia (Tunisia)  
+🔐 **Aspiring Cybersecurity Specialist** | Focused on Network & System Security  
+🌍 Preparing for **Master’s studies in Italy** (IELTS B2 & Italian language in progress)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+
+I’m passionate about protecting digital systems and understanding how networks and operating systems interact at a deep level.  
+This year, I’m fully focused on:
+- 📘 Earning **CompTIA Security+**
+- 💻 Building **real cybersecurity tools** in Python
+- 🌐 Practising on **TryHackMe** and **CTF platforms**
+- 💬 Strengthening my **English & Italian** for international studies  
+
+---
+
+## 🧰 Tech Stack  
+| **Languages** : Python, Bash, SQL 
+| **Security & Networking** : Wireshark, Nmap, Packet Tracer, Linux, Windows Server
+| **Frameworks & Tools** : Flask, Git, VS Code 
+
+---
+
+## 🚀 Featured Projects  
+| 🕵️‍♂️ [Network Scanner](https://github.com/AymenGa/network-scanner) : Multi-threaded TCP scanner demonstrating socket programming & concurrency
+| 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer): Detects suspicious log activity using regex & pandas                       
+| 🔥 [Firewall Simulator](https://github.com/AymenGa/firewall-simulator) :Educational packet-filtering simulation for security learning               
+| 📚 [TryHackMe Progress](https://github.com/AymenGa/tryhackme-progress) : My cybersecurity labs & learning notes                                     
+| ⚙️ [Upwork Scripts](https://github.com/AymenGa/upwork-scripts) : Python automation tools for freelance micro-tasks                         
+
+---
+
+## 🎯 2025 Goals  
+
+- 🧩 Master Python for Security Automation  
+- 🧠 Earn **CompTIA Security+ Certification**  
+- 💼 Build a consistent freelance profile on **Upwork**
+
+---
+
+## 💬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymen-gasri)  
+📧 **aymengasri62@gmail.com**  
+
+---
+
+> _“Security is not a product, but a process.” — Bruce Schneier
