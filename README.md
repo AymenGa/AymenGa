@@ -2,7 +2,6 @@
 
 🎓 **Computer Engineering Graduate** from ISIMA Mahdia (Tunisia)  
 🔐 **Aspiring Cybersecurity Specialist** | Focused on Network & System Security  
-🌍 Preparing for **Master’s studies in Italy** (IELTS B2 & Italian language in progress)  
 
 ---
 
@@ -13,7 +12,7 @@ This year, I’m fully focused on:
 - 📘 Earning **CompTIA Security+**
 - 💻 Building **real cybersecurity tools** in Python
 - 🌐 Practising on **TryHackMe** and **CTF platforms**
-- 💬 Strengthening my **English & Italian** for international studies  
+- 💬 Strengthening my **English** for international studies  
 
 ---
 
@@ -43,7 +42,7 @@ This year, I’m fully focused on:
 
 ## 💬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymen-gasri)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymengasri)  
 📧 **aymengasri62@gmail.com**  
 
 ---
