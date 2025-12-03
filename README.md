@@ -25,6 +25,7 @@ This year, I’m fully focused on:
 
 ## 🚀 Featured Projects  
 | 🕵️‍♂️ [Network Scanner](https://github.com/AymenGa/network-scanner) : Multi-threaded TCP scanner demonstrating socket programming & concurrency
+
 | 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer): Detects suspicious log activity using regex & pandas                       
 | 🔥 [Firewall Simulator](https://github.com/AymenGa/firewall-simulator) :Educational packet-filtering simulation for security learning               
 | 📚 [TryHackMe Progress](https://github.com/AymenGa/tryhackme-progress) : My cybersecurity labs & learning notes                                     
