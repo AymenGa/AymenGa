@@ -18,7 +18,9 @@ This year, I’m fully focused on:
 
 ## 🧰 Tech Stack  
 | **Languages** : Python, Bash, SQL 
+
 | **Security & Networking** : Wireshark, Nmap, Packet Tracer, Linux, Windows Server
+
 | **Frameworks & Tools** : Flask, Git, VS Code 
 
 ---
