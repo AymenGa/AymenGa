@@ -36,9 +36,9 @@ This year, I’m fully focused on:
 
 ## 🎯 2025 Goals  
 
-- 🧩 Master Python for Security Automation  
-- 🧠 Earn **CompTIA Security+ Certification**  
-- 💼 Build a consistent freelance profile on **Upwork**
+- Master Python for Security Automation  
+- Earn **CompTIA Security+ Certification**  
+- Build a consistent freelance profile on **Upwork**
 
 ---
 
