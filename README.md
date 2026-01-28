@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aymen Gasri  
+# Hi, I'm Aymen Gasri  
 
 🎓 **Computer Engineering Graduate** from ISI Mahdia (Tunisia)  
 🔐 **Aspiring Cybersecurity Specialist** | Focused on Network & System Security  
