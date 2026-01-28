@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aymen Gasri  
 
-🎓 **Computer Engineering Graduate** from ISIMA Mahdia (Tunisia)  
+🎓 **Computer Engineering Graduate** from ISI Mahdia (Tunisia)  
 🔐 **Aspiring Cybersecurity Specialist** | Focused on Network & System Security  
 
 ---
@@ -30,11 +30,7 @@ This year, I’m fully focused on:
 
 | 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer): Detects suspicious log activity using regex & pandas   
 
-| 🔥 [Firewall Simulator](https://github.com/AymenGa/firewall-simulator) :Educational packet-filtering simulation for security learning
-
-| 📚 [TryHackMe Progress](https://github.com/AymenGa/tryhackme-progress) : My cybersecurity labs & learning notes       
-
-| ⚙️ [Upwork Scripts](https://github.com/AymenGa/upwork-scripts) : Python automation tools for freelance micro-tasks                         
+| 🔥 [Firewall Simulator](https://github.com/AymenGa/firewall-simulator) :Educational packet-filtering simulation for security learning                     
 
 ---
 
