@@ -9,10 +9,10 @@
 
 I’m passionate about protecting digital systems and understanding how networks and operating systems interact at a deep level.  
 This year, I’m fully focused on:
-- 📘 Earning **CompTIA Security+**
-- 💻 Building **real cybersecurity tools** in Python
-- 🌐 Practising on **TryHackMe** and **CTF platforms**
-- 💬 Strengthening my **English** for international studies  
+-  Earning **CompTIA Security+**
+-  Building **real cybersecurity tools** in Python
+-  Practising on **TryHackMe** and **CTF platforms**
+-  Strengthening my **English** for international studies  
 
 ---
 
