@@ -26,24 +26,31 @@ This year, I’m fully focused on:
 ---
 
 ## 🚀 Featured Projects  
+
+| 🔐 Audit Report Verification System : Full-stack platform built at Tunisia's National Cybersecurity Agency (private repo — sensitive data) 📹 [Watch Demo]()
+
 | 🕵️‍♂️ [Network Scanner](https://github.com/AymenGa/network-scanner) : Multi-threaded TCP scanner demonstrating socket programming & concurrency 
 
 | 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer): Detects suspicious log activity using regex & pandas   
 
-| 🔥 [Firewall Simulator](https://github.com/AymenGa/firewall-simulator) :Educational packet-filtering simulation for security learning                     
+| 🔥 [Firewall Simulator](https://github.com/AymenGa/firewall-simulator) :Educational packet-filtering simulation for security learning     
+
+| 🚗 [Automotive Listing Scraper](https://github.com/AymenGa/automotive-listing-scraper) : Scrapes 2,500+ car listings across all 50 US states — built for a real Upwork client
+
+
 
 ---
 
-## 🎯 2025 Goals  
-
-- Master Python for Security Automation  
-- Earn **CompTIA Security+ Certification**  
-- Build a consistent freelance profile on **Upwork**
-
+## 🎯 2026 Goals
+- ✅ Python Automation & Web Scraping — actively freelancing on Upwork
+- 📚 Earn **CompTIA Security+ Certification**
+- 🎓 Master's Degree in Cybersecurity
+- ⭐ Build a strong Upwork reputation
 ---
 
 ## 💬 Connect with Me  
 
+[![Upwork](https://img.shields.io/badge/Upwork-green?logo=upwork)](https://www.upwork.com/freelancers/~01028a34524db36bf2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymengasri)  
 📧 **aymengasri62@gmail.com**  
 
