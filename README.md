@@ -27,7 +27,7 @@ This year, I’m fully focused on:
 
 ## 🚀 Featured Projects  
 
-| 🔐 Audit Report Verification System : Full-stack platform built at Tunisia's National Cybersecurity Agency (private repo — sensitive data) 📹 [Watch Demo]()
+| 🔐 [Audit Report Verification System](https://vimeo.com/1137905915?share=copy&fl=sv&fe=ci) : Full-stack platform built at Tunisia's National Cybersecurity Agency (private repo — sensitive data) 
 
 | 🕵️‍♂️ [Network Scanner](https://github.com/AymenGa/network-scanner) : Multi-threaded TCP scanner demonstrating socket programming & concurrency 
 
