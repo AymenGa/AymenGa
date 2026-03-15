@@ -31,9 +31,7 @@ This year, I’m fully focused on:
 
 | 🕵️‍♂️ [Network Scanner](https://github.com/AymenGa/network-scanner) : Multi-threaded TCP scanner demonstrating socket programming & concurrency 
 
-| 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer): Detects suspicious log activity using regex & pandas   
-
-| 🔥 [Firewall Simulator](https://github.com/AymenGa/firewall-simulator) :Educational packet-filtering simulation for security learning     
+| 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer): Detects suspicious log activity using regex & pandas     
 
 | 🚗 [Automotive Listing Scraper](https://github.com/AymenGa/automotive-listing-scraper) : Scrapes 2,500+ car listings across all 50 US states — built for a real Upwork client
 
