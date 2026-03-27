@@ -1,59 +1,89 @@
-# Hi, I'm Aymen Gasri  
+# Hi, I'm Aymen Gasri 👋
 
-🎓 **Computer Engineering Graduate** from ISI Mahdia (Tunisia)  
-🔐 **Aspiring Cybersecurity Specialist** | Focused on Network & System Security  
+🎓 **Computer Engineering Graduate** — ISI Mahdia, Tunisia  
+🔐 **Cybersecurity Enthusiast** | 🐍 **Python Automation Freelancer**  
 
----
-
-## 🧠 About Me  
-
-I’m passionate about protecting digital systems and understanding how networks and operating systems interact at a deep level.  
-This year, I’m fully focused on:
--  Earning **CompTIA Security+**
--  Building **real cybersecurity tools** in Python
--  Practising on **TryHackMe** and **CTF platforms**
--  Strengthening my **English** for international studies  
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01028a34524db36bf2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymengasri)
 
 ---
 
-## 🧰 Tech Stack  
-| **Languages** : Python, Bash, SQL 
+## 🧠 About Me
 
-| **Security & Networking** : Wireshark, Nmap, Packet Tracer, Linux, Windows Server
+I build **Python automation tools** and **large-scale web scrapers** for real clients on Upwork — while pursuing my path into **cybersecurity**.
 
-| **Frameworks & Tools** : Flask, Git, VS Code 
+- 🔧 Delivering production-grade scraping systems (20,000+ data points per project)
+- 🔐 Building security tools: scanners, log analyzers, audit systems
+- 🎯 Working toward **CompTIA Security+** and a **Master's in Cybersecurity**
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-| 🔐 [Audit Report Verification System](https://vimeo.com/1137905915?share=copy&fl=sv&fe=ci) : Full-stack platform built at Tunisia's National Cybersecurity Agency (private repo — sensitive data) 
+### 🏪 [USA Business Directory Scraper](https://github.com/AymenGa/usa-business-directory-scraper)
+> **20,000+ listings** | 250 US cities | 12 categories | Upwork client project
 
-| 🕵️‍♂️ [Network Scanner](https://github.com/AymenGa/network-scanner) : Multi-threaded TCP scanner demonstrating socket programming & concurrency 
+Large-scale scraping system that builds business directory & marketplace databases. Anti-bot bypass, CAPTCHA handling, crash recovery, professional Excel deliverables.
 
-| 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer): Detects suspicious log activity using regex & pandas     
+`Python` `Selenium` `undetected-chromedriver` `BeautifulSoup` `OpenPyXL`
 
-| 🚗 [Automotive Listing Scraper](https://github.com/AymenGa/automotive-listing-scraper) : Scrapes 2,500+ car listings across all 50 US states — built for a real Upwork client
+### 🚗 [Automotive Listing Scraper](https://github.com/AymenGa/automotive-listing-scraper)
+> **2,500+ listings** | All 50 US states | Upwork client project
 
-| 🏪 [USA Business Directory Scraper](https://github.com/AymenGa/usa-business-directory-scraper) : Scrapes 20,000+ business listings & marketplace data across 250 US cities (12 categories) — built for a real Upwork client
+Extracts car listings nationwide with year, make, model, mileage, location, colors, and vehicle history.
 
+`Python` `Selenium` `BeautifulSoup` `Pandas`
 
+### 🔐 [Audit Report Verification System](https://vimeo.com/1137905915?share=copy&fl=sv&fe=ci)
+> Built at **Tunisia's National Cybersecurity Agency** (ANCS) — private repo
+
+Full-stack platform for verifying and managing cybersecurity audit reports. PDF extraction, database management, role-based access.
+
+`Python` `Flask` `PostgreSQL` `React`
+
+### 🕵️ [Network Scanner](https://github.com/AymenGa/network-scanner)
+> Multi-threaded TCP port scanner with severity scoring
+
+Banner grabbing, JSON export, built for security auditing as part of CompTIA Security+ learning path.
+
+`Python` `Socket` `Threading`
+
+### 🧩 [Log Analyzer](https://github.com/AymenGa/log-analyzer)
+> Real-time security monitoring CLI tool
+
+Detects brute-force attacks in Apache & Linux auth logs using regex pattern matching.
+
+`Python` `Regex` `Pandas`
+
+---
+
+## 🧰 Tech Stack
+
+| Domain | Tools |
+|--------|-------|
+| **Languages** | Python, Bash, SQL |
+| **Web Scraping** | Selenium, undetected-chromedriver, BeautifulSoup, Pandas |
+| **Security** | Wireshark, Nmap, Packet Tracer, Linux, Windows Server |
+| **Web Dev** | Flask, React, PostgreSQL |
+| **Tools** | Git, VS Code, Docker |
 
 ---
 
 ## 🎯 2026 Goals
+
 - ✅ Python Automation & Web Scraping — actively freelancing on Upwork
-- 📚 Earn **CompTIA Security+ Certification**
+- 📚 Earn **CompTIA Security+** Certification
 - 🎓 Master's Degree in Cybersecurity
-- ⭐ Build a strong Upwork reputation
----
-
-## 💬 Connect with Me  
-
-[![Upwork](https://img.shields.io/badge/Upwork-green?logo=upwork)](https://www.upwork.com/freelancers/~01028a34524db36bf2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymengasri)  
-📧 **aymengasri62@gmail.com**  
+- 🚀 Scale Upwork freelancing to larger contracts
 
 ---
 
-> _“Security is not a product, but a process.” — Bruce Schneier
+## 📬 Contact
+
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-6fda44?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01028a34524db36bf2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aymengasri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymengasri)
+[![Email](https://img.shields.io/badge/Email-aymengasri62%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aymengasri62@gmail.com)
+
+---
+
+> _"Security is not a product, but a process." — Bruce Schneier_
