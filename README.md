@@ -35,6 +35,8 @@ This year, I’m fully focused on:
 
 | 🚗 [Automotive Listing Scraper](https://github.com/AymenGa/automotive-listing-scraper) : Scrapes 2,500+ car listings across all 50 US states — built for a real Upwork client
 
+| 🏪 [USA Business Directory Scraper](https://github.com/AymenGa/usa-business-directory-scraper) : Scrapes 20,000+ business listings & marketplace data across 250 US cities (12 categories) — built for a real Upwork client
+
 
 
 ---
