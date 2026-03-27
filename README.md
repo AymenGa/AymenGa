@@ -3,7 +3,8 @@
 🎓 **Computer Engineering Graduate** — ISI Mahdia, Tunisia  
 🔐 **Cybersecurity Enthusiast** | 🐍 **Python Automation Freelancer**  
 
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01028a34524db36bf2)
+[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01028a34524db36bf2)
+(https://www.upwork.com/freelancers/~01028a34524db36bf2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymengasri)
 
 ---
