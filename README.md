@@ -28,6 +28,13 @@ Large-scale scraping system that builds business directory & marketplace databas
 
 `Python` `Selenium` `undetected-chromedriver` `BeautifulSoup` `OpenPyXL`
 
+### ✈️ [Airport Database Enrichment](https://github.com/AymenGa/airport-database-enrichment)
+> **2,635 airport records** | Wikipedia + website verification | IATA-verified | Upwork client project
+
+Data-engineering pipeline that cleaned and expanded a global airport directory — verified Wikipedia links, official websites, and added 194 missing international airports using Wikipedia API, Wikidata SPARQL, and AirportsAPI.
+
+`Python` `Wikipedia API` `Wikidata SPARQL` `AirportsAPI` `JSON`
+
 ### 🚗 [Automotive Listing Scraper](https://github.com/AymenGa/automotive-listing-scraper)
 > **2,500+ listings** | All 50 US states | Upwork client project
 
